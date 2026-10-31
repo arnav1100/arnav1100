@@ -70,7 +70,7 @@ I'm open to freelance projects, development collaborations, and remote opportuni
 
 **🌐 Portfolio:** [arnav-dev-jade.vercel.app](https://arnav-dev-jade.vercel.app/)
 
-**💼 LinkedIn:** [Connect with me](www.linkedin.com/in/arnav-srivastav-dev)
+**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/arnav-srivastav-dev/)
 
 <div align="center">
 
