@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Arnav 
+# Hi, I'm Arnav 👋
 
 ### Full-Stack Web Developer
 
